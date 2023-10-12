@@ -1,1 +1,1 @@
-A low level C programming
+Learning how to debug a code
